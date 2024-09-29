@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: removecom
+Version: 0.0.1
+Summary: This tool helps you delete all comments in a file
+Home-page: https://github.com/AbyTed/Comment-cleaner-CLI.git
+Author: Abraham T
+Author-email: abrahamg.tadesse@gmail.com
+License: MIT LICENSE
+Classifier: Programming Language :: Python :: 3.12.6
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: click==8.1.7
+Requires-Dist: colorama==0.4.6
+Requires-Dist: setuptools==75.1.0

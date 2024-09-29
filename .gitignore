@@ -1,1 +1,5 @@
 /venv
+*dummy
+dummy.py
+/dist
+/build

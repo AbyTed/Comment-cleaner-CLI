@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+tool.py
+app/__init__.py
+app/__main__.py
+app/application.py
+removecom.egg-info/PKG-INFO
+removecom.egg-info/SOURCES.txt
+removecom.egg-info/dependency_links.txt
+removecom.egg-info/entry_points.txt
+removecom.egg-info/requires.txt
+removecom.egg-info/top_level.txt
